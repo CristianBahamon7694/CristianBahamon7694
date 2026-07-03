@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there, I'm Cristián Jeanpool Bahamon Granados! 👋
+### Software Analysis and Development Technologist 🚀
 
-<!--
-**CristianBahamon7694/CristianBahamon7694** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Egresado del SENA (Colombia) y estudiante de Ingeniería de Software en la Uniminuto, apasionado por construir soluciones eficientes, automatizar procesos y escribir código limpio. Actualmente enfocado en el desarrollo Full Stack y explorando tecnologías de infraestructura y DevOps.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+
+Backend e Infraestructura:
+- **Java** (Spring Boot, Spring Security)
+- **Python** (FastAPI)
+- **Docker** & Containers
+- **Linux** (Ubuntu / Bash Scripting)
+
+Frontend & Databases:
+- **JavaScript** (HTML5, CSS3)
+- **MySQL** / PostgreSQL / Git & GitHub
+
+---
+
+### 📈 My Learning Roadmap (2026)
+- [ ] Implementar arquitecturas de microservicios con Docker Compose.
+- [ ] Optimizar despliegues utilizando Nginx en entornos Linux.
+- [ ] Fortalecer mi inglés técnico aplicado al desarrollo de software (B1 Intermediate).
+
+---
+
+### 📫 Connect with me:
+- **Email:** cbahamongranados [at] gmail.com
