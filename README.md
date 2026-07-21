@@ -1,30 +1,34 @@
-# Hi there, I'm Cristián Jeanpool Bahamon Granados! 👋
-### Software Analysis and Development Technologist 🚀
+Hi there, I'm Cristián Jeanpool Bahamon Granados! 👋
 
-Egresado del SENA (Colombia) y estudiante de Ingeniería de Software en la Uniminuto, apasionado por construir soluciones eficientes, automatizar procesos y escribir código limpio. Actualmente enfocado en el desarrollo Full Stack y explorando tecnologías de infraestructura y DevOps.
+Software Analysis and Development Technologist 🚀
 
----
+Egresado del SENA (Colombia) y estudiante de Ingeniería de Software en
+la Uniminuto. Construyo aplicaciones móviles nativas y estoy ampliando
+mi stack hacia Python y contenedores para desarrollo backend.
 
-### 🛠️ Tech Stack & Tools
+🛠️ Tech Stack & Tools
 
-Backend e Infraestructura:
-- **Java** (Spring Boot, Spring Security)
-- **Python** (FastAPI)
-- **Docker** & Containers
-- **Linux** (Ubuntu / Bash Scripting)
+**Mobile:**
+- Kotlin (Android)
 
-Frontend & Databases:
-- **JavaScript** (HTML5, CSS3)
-- **MySQL** / PostgreSQL / Git & GitHub
+**Backend (en desarrollo activo):**
+- Python (FastAPI)
+- Docker
+- PostgreSQL
 
----
+**Herramientas:**
+- Git & GitHub
+- Linux (Ubuntu / Bash)
 
-### 📈 My Learning Roadmap (2026)
-- [ ] Implementar arquitecturas de microservicios con Docker Compose.
-- [ ] Optimizar despliegues utilizando Nginx en entornos Linux.
-- [ ] Fortalecer mi inglés técnico aplicado al desarrollo de software (B1 Intermediate).
+📌 Featured Project
 
----
+**[Glass Widget Builder]([link-a-tu-repo](https://github.com/CristianBahamon7694/GlassPlayer.git))** — App Android que se conecta
+en tiempo real a Spotify, con efecto "Liquid Glass" y animaciones
+dinámicas basadas en la portada del álbum.
 
-### 📫 Connect with me:
-- **Email:** cbahamongranados [at] gmail.com
+📈 Currently Learning
+- Python + FastAPI para desarrollo backend
+- Docker para contenerización de aplicaciones
+
+📫 Connect with me:
+- Email: cbahamongranados [at] gmail.com
