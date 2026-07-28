@@ -21,7 +21,7 @@ mi stack hacia Python y contenedores para desarrollo backend.
 - Linux (Ubuntu / Bash)
 
 📌 Featured Project
-GlassPlayer — App Android que se conecta en tiempo real a Spotify, con efecto "Liquid Glass" y animaciones dinámicas basadas en la portada del álbum.
+- GlassPlayer — App Android que se conecta en tiempo real a Spotify, con efecto "Liquid Glass" y animaciones dinámicas basadas en la portada del álbum.
 
 📈 Currently Learning
 - Python + FastAPI para desarrollo backend
